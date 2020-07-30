@@ -5,7 +5,7 @@
 #### features in python project: 
 - SwagLyrics SwSpotify library [link](https://github.com/SwagLyrics/SwSpotify)
 - pyserial library [link](https://pypi.org/project/pyserial)
-- pynput library [link](https://pypi.org/project/pynput
+- pynput library [link](https://pypi.org/project/pynput)
 - time python libary
 
 #### features in arduino project: 
