@@ -21,8 +21,8 @@
 
 ## Photos :
 
-<img src="img/one.jpg" width="40%">
-<img src="img/two.jpg" width="40%">
+<img src="img/one.jpg" width="50%">
+<img src="img/two.jpg" width="50%">
 
 
 ## Thanks for reading. Don't forget to star my project 
